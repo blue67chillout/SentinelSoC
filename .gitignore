@@ -96,6 +96,7 @@ incremental_db/
 
 docs/_build/
 *.pdf
+!docs/*.pdf
 *.aux
 *.toc
 
