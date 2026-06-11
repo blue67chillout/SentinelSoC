@@ -1,7 +1,7 @@
-[submodule "rtl/peripherals/apb_spi_master"]
+[submodule "verilog/rtl/peripherals/apb_spi_master"]
 	path = verilog/rtl/peripherals/apb_spi_master
 	url = https://github.com/pulp-platform/apb_spi_master.git
-[submodule "rtl/peripherals/apb_uart"]
+[submodule "verilog/rtl/peripherals/apb_uart"]
 	path = verilog/rtl/peripherals/apb_uart
 	url = https://github.com/pulp-platform/apb_uart_sv.git
 [submodule "verilog/rtl/Interconnects/obi"]
