@@ -1,3 +1,12 @@
-[submodule "verilog/rtl/AXI/axi"]
-	path = verilog/rtl/AXI/axi
-	url = https://github.com/pulp-platform/axi.git
+[submodule "rtl/peripherals/apb_spi_master"]
+	path = verilog/rtl/peripherals/apb_spi_master
+	url = https://github.com/pulp-platform/apb_spi_master.git
+[submodule "rtl/peripherals/apb_uart"]
+	path = verilog/rtl/peripherals/apb_uart
+	url = https://github.com/pulp-platform/apb_uart_sv.git
+[submodule "verilog/rtl/Interconnects/obi"]
+	path = verilog/rtl/Interconnects/obi
+	url = https://github.com/pulp-platform/obi.git
+[submodule "verilog/rtl/Interconnects/apb"]
+	path = verilog/rtl/Interconnects/apb
+	url = https://github.com/pulp-platform/apb.git
